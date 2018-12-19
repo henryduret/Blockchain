@@ -1,8 +1,10 @@
 # Chatbot
 
-Original chatbot that is used: https://github.com/jigna-panchal/Chatbot/blob/37cb41622699b8ada1085b3284085abcfe3b40be/.ipynb_checkpoints/Chatbot-checkpoint.ipynb 
+###### Original chatbot that is used
 
-**Example of discussion:**
+https://github.com/jigna-panchal/Chatbot/blob/37cb41622699b8ada1085b3284085abcfe3b40be/.ipynb_checkpoints/Chatbot-checkpoint.ipynb 
+
+###### Example of discussion
 
 "
 
