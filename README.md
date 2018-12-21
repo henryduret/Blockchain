@@ -4,3 +4,5 @@
 * Class 'Programming with Advanced Computer Languages'
 * University of St Gallen (Switzerland)
 * Fall 2018
+
+> For more details please read the 'explanatory document' file
